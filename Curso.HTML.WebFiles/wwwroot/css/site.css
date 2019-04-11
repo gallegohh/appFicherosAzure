@@ -1,0 +1,17 @@
+﻿#dropZone{
+    min-height: 100vh;
+    border: dashed 5px #e8e8e8;
+    border-radius: 5em;
+}
+
+.alert {
+    background-color: #d7fcd2;
+    border-radius: 1em;
+    border: 1px solid #18a41b;
+}
+
+.bad-alert {
+    background-color: #ffb6b6;
+    border-radius: 1em;
+    border: 1px solid #ff0000;
+}
